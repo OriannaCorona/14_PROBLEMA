@@ -1,0 +1,129 @@
+.movie{
+	display: inline;
+	font-family: arial;
+	font-size: 20px;
+	color: gray;
+}
+.buscador{
+	display: inline;
+	font-family: arial;
+	font-size: 20px;
+	color: gray;
+	padding: 5px;
+	border: gray solid 2px;
+	border-radius: 10%;
+}
+.banner1{
+	width: 420%;
+}
+.icono{
+	width: 100px;
+	height: 100px;
+	margin-top: 480px;
+	margin-left: 80px;
+}
+.big{
+	font-family: arial;
+	font-size: 50px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+#uno{
+	width: 400px;
+	margin-left: 20px;
+}
+.verde{
+	display: inline;
+	font-family: arial;
+	font-size: 20px;
+	color: green;
+	padding: 5px;
+	border: green solid 2px;
+	border-radius: 10%;
+}
+.trailer{display: block;
+	font-family: arial;
+	font-size: 20px;
+	color: white;
+	background-color: yellow;
+	padding: 10px;
+	border-radius: 5px;
+	width: 230px;
+	text-align: left;
+	margin-top: 10px;
+}
+.bt{
+	display: block;
+	font-family: arial;
+	font-size: 20px;
+	color: white;
+	background-color: orange;
+	padding: 10px;
+	border-radius: 5px;
+	width: 230px;
+	text-align: left;
+	margin-top: 10px;
+
+}
+#peliculas{
+	background-color: darkorange;
+	height: 325px;
+}
+.pelis{
+	width: 200px;
+	height: 250px;
+	margin-top: 35px;
+	margin-left: 45px;
+}
+.pelis2{
+	width: 300px;
+	height: 300px;
+}
+
+
+.peliculas2{
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+.dont{
+	font-family: arial;
+	font-size: 30px;
+}
+.book{
+	font-family: arial;
+	font-size: 40px;
+}
+.ticket{
+	display: inline;
+	background-color: orange;
+	font-family: arial;
+	font-size: 15px;
+	color: white;
+	padding: 10px;
+	border-radius: 5px;
+}
+.discount{
+	margin-top: 25px;
+	font-family: arial;
+	font-size: 15px;
+	color: orange;
+	text-decoration: none;
+}
+.info{
+	margin-bottom: 20px;
+}
+.text{
+	font-family: arial;
+	font-size: 20px;
+	font-style: bold:;
+}
+.text2{
+	font-size: 15px;
+	font-family: arial;
+	color: lightgray;}
+footer{
+	background-color: lightgray;
+	font-family: arial;
+	font-size: 10px;
+	color: gray;
+}
